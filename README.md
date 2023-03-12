@@ -10,3 +10,8 @@
 | Ethernet | Realtek 8111E |
 | Hard Disk | WD Green SATA SSD |
 | Bootloader | OpenCore |
+
+### Tools
+* ![MountEFI](https://github.com/corpnewt/MountEFI)
+* ![ProperTree](https://github.com/corpnewt/ProperTree)
+* ![ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh)
