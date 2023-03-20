@@ -16,9 +16,9 @@
 
 ### Tools
 
-* ![MountEFI](https://github.com/corpnewt/MountEFI)
-* ![ProperTree](https://github.com/corpnewt/ProperTree)
-* ![ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh)
+* [MountEFI](https://github.com/corpnewt/MountEFI)
+* [ProperTree](https://github.com/corpnewt/ProperTree)
+* [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh)
 
 ### Watermelon Hackintosh 🍉
 ![img](images/watermelon.jpg)
