@@ -1,6 +1,6 @@
 ### My Desktop
 
-<img height="400px" src="images/screenshot1.png">
+![img](images/screenshot1.png)
 
 | Specifications | Detail                                            |
 | ------------------- | ------------------------------------------- |
@@ -21,4 +21,4 @@
 * ![ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh)
 
 ### Watermelon Hackintosh 🍉
-<img height="500px" src="images/watermelon.jpg">
+![img](images/watermelon.jpg)
