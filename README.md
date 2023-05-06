@@ -1,7 +1,8 @@
 ### H61M-P31(G3) Hackintosh Build
 
 ![img](https://raw.githubusercontent.com/stylish-bear/h61m-p31-hackintosh/main/images/Screenshot%202023-05-01%20at%2010.51.26%20pm.png)
-![img](images/screenshot1.png)
+
+[-> link to Big Sur screenshot <-](https://raw.githubusercontent.com/stylish-bear/h61m-p31-hackintosh/main/images/screenshot1.png)
 
 | Specifications | Detail                                            |
 | ------------------- | ------------------------------------------- |
@@ -18,6 +19,7 @@
 
 ### Tools
 
-* [MountEFI](https://github.com/corpnewt/MountEFI)
-* [ProperTree](https://github.com/corpnewt/ProperTree)
-* [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh)
+* [OC Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+* [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/)
+* [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+* [SSDTTime](https://github.com/corpnewt/SSDTTime)
