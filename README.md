@@ -1,5 +1,5 @@
 ### My Desktop
-
+![img](images/ventura_screenshot.png)
 ![img](images/screenshot1.png)
 
 | Specifications | Detail                                            |
