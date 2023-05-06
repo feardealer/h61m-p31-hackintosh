@@ -1,6 +1,6 @@
 ### My Desktop
 
-![img](images/ventura_screenshot.png)
+![img](images/Screenshot 2023-05-01 at 10.51.26 pm.png)
 ![img](images/screenshot1.png)
 
 | Specifications | Detail                                            |
