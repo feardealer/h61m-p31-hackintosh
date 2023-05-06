@@ -1,4 +1,5 @@
 ### My Desktop
+
 ![img](images/ventura_screenshot.png)
 ![img](images/screenshot1.png)
 
@@ -13,6 +14,7 @@
 | Ethernet | Realtek 8111E |
 | Hard Disk | WD Green SATA SSD |
 | Bootloader | OpenCore |
+| Tested macOS versions | Big Sur, Ventura|
 
 ### Tools
 
