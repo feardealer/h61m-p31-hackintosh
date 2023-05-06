@@ -1,6 +1,6 @@
-### My Desktop
+### H61M-P31(G3) Hackintosh Build
 
-![img](images/Screenshot 2023-05-01 at 10.51.26 pm.png)
+![img](https://raw.githubusercontent.com/stylish-bear/h61m-p31-hackintosh/main/images/Screenshot%202023-05-01%20at%2010.51.26%20pm.png)
 ![img](images/screenshot1.png)
 
 | Specifications | Detail                                            |
@@ -21,6 +21,3 @@
 * [MountEFI](https://github.com/corpnewt/MountEFI)
 * [ProperTree](https://github.com/corpnewt/ProperTree)
 * [ssdtPRGen.sh](https://github.com/Piker-Alpha/ssdtPRGen.sh)
-
-### Watermelon Hackintosh 🍉
-![img](images/watermelon.jpg)
